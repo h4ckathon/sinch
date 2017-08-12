@@ -21,7 +21,7 @@ var showLoginUI = function() {
 /*** Set up sinchClient ***/
 
 sinchClient = new SinchClient({
-	applicationKey: '<yourkey>',
+	applicationKey: 'bf7250b2-9d06-44c4-a0a2-17405c810a7d',
 	capabilities: {calling: true},
 	//supportActiveConnection: true, /* NOTE: This is only required if application is to receive calls / instant messages. */ 
 	//Note: For additional loging, please uncomment the three rows below
